@@ -5,7 +5,7 @@ int main() {
     int dist, temp;
     
     scanf("%d", &dist);
-    temp=dist*2;
+    temp = dist * 2;
     printf("%d minutos\n", temp);
     
     
